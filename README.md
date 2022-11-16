@@ -1,4 +1,6 @@
-### Hello there 👋
+<p align = "center"
+  <h>Hello there 👋</h>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There"/>
