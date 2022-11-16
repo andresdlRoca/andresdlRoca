@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif))
 
 - 🔭 I’m currently getting a CS & TI Degree.
 - 🌱 I’m currently learning computational theory, web development, OpenGL with the use of Python and Cybersecurity basic concepts.
