@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-![Alt Text](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There"/>
+</p>
 
 - 🔭 I’m currently getting a CS & TI Degree.
 - 🌱 I’m currently learning computational theory, web development, OpenGL with the use of Python and Cybersecurity basic concepts.
@@ -9,7 +11,9 @@
 - 📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt 
 - ⚡ Fun fact: I'm a huge fan of videogames and cat pictures
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<p align="center">
+  <img src = "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/?
+</p>
 <!--
 **andresdlRoca/andresdlRoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
