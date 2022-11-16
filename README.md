@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There"/>
 </p>
 
-- 🔭 I’m currently getting a CS & TI Degree.
+- 🔭 I’m currently getting a CS & IT Engineering Degree.
 - 🌱 I’m currently learning computational theory, web development, OpenGL with the use of Python and Cybersecurity basic concepts.
 - 👯 I’m looking to collaborate on Web development projects or any other type of project that seems interesting enough.
 - 💬 Ask me about Python, Java, JS, React, C++, C# and PostgreSQL.
