@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<h1 align="center"> Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
 <div align="center">
     <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There" align = "center"/>
@@ -29,7 +29,7 @@
   </a>
 </p>
 
-<h2 align = "center">Contact Me!</h2>
+<h2 align = "center">Contact Me! :telephone:</h2>
 <!-- <p align = "center"
    <h5><b>Contact Me!</b></h5>
    </br>
