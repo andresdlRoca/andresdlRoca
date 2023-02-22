@@ -1,24 +1,63 @@
+<h1 align="center"> Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There" align = "center"/>
+</div>
+</br>
+<div>
+    <ul>
+    <li>🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.</li>
+    <li>🌱 I’m currently learning about compilers, NoSQL databases, Computational Theory, Operating Systems and Cybersecurity basic concepts.</li>
+    <li>👯 I’m looking to collaborate on open source projects.</li>
+    <li>💬 Ask me about Python, Java, JS, React, C, C++, C#, PostgreSQL, MongoDB or anything programming related.</li>
+    <li>📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt </li>
+    <li>⚡ Fun fact: I'm a huge fan of videogames and cat pictures</li>
+  </ul>
+</div>
+</br>
+
 <p align = "center"
-  ###<h5>Hello there 👋</h5>
-</p>
+   <h5><b>Some of my skills</b></h5>
+   </br>
+</p>   
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello There"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,postgresql,python,java,js,react,c,cpp,c#" />
+    </br>
+    <img src="https://skillicons.dev/icons?i=babel,jest,unity,linux,vscode,html,css,scss,ts" />
+  </a>
 </p>
 
-- 🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.
-- 🌱 I’m currently learning about compilers, NoSQL databases, Computational Theory, Operating Systems and Cybersecurity basic concepts.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Python, Java, JS, React, C, C++, C#, PostgreSQL, and MongoDB.
-- 📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt 
-- ⚡ Fun fact: I'm a huge fan of videogames and cat pictures
+<h2 align = "center">Contact Me!</h2>
+<!-- <p align = "center"
+   <h5><b>Contact Me!</b></h5>
+   </br>
+</p>    -->
 
-<p align="center">
-  <img width = 500 height = 200 src = "https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"/>
-</p>
+<div align = "center">
+      <a href = "https://www.linkedin.com/in/andr%C3%A8s-de-la-roca-pineda-10a40319b/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href = "https://discordapp.com/users/237025770940137472">
+          <img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+      </a>
+<!--       <a href = "">
+          <img src = ""/>
+      </a> -->
+</div>
+
+ 
 <p align = "center">
-  <img width = 500 height = 200 center src = "https://thumbs.gfycat.com/ExemplaryPlayfulFirebelliedtoad-max-1mb.gif"/>
+  <a href = "https://steamcommunity.com/id/El_Pkachu/">
+      <img width = 500 height = 200 center src = "https://thumbs.gfycat.com/ExemplaryPlayfulFirebelliedtoad-max-1mb.gif"/>
+  </a>
+  <a href = "https://github.com/andresdlRoca">
+      <img src="https://github-readme-stats.vercel.app/api?username=andresdlRoca&show_icons=true&theme=gruvbox"         alt="andresdlRoca" />
+  </a>
+
 </p>
+
 <!--
 **andresdlRoca/andresdlRoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
