@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,postgresql,python,java,js,react,c,cpp,c#" />
+    <img src="https://skillicons.dev/icons?i=git,c,postgresql,python,java,js,react,c,cpp,cs" />
     </br>
-    <img src="https://skillicons.dev/icons?i=babel,jest,unity,linux,vscode,html,css,scss,ts" />
+    <img src="https://skillicons.dev/icons?i=babel,jest,unity,linux,vscode,html,css,scss,ts,webpack" />
   </a>
 </p>
 
