@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently getting a CS & IT Engineering Degree.
 - 🌱 I’m currently learning computational theory, web development, OpenGL with the use of Python and Cybersecurity basic concepts.
-- 👯 I’m looking to collaborate on Web development projects or any other type of project that seems interesting enough.
-- 💬 Ask me about Python, Java, JS, React, C++, C# and PostgreSQL.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about Python, Java, JS, React, C, C++, C#, PostgreSQL, and MongoDB.
 - 📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt 
 - ⚡ Fun fact: I'm a huge fan of videogames and cat pictures
 
