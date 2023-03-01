@@ -9,26 +9,16 @@
     <li>🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.</li>
     <li>🌱 I’m currently learning about compilers, NoSQL databases, Computational Theory, Operating Systems and Cybersecurity basic concepts.</li>
     <li>👯 I’m looking to collaborate on open source projects.</li>
-    <li>💬 Ask me about Python, Java, JS, React, C, C++, C#, PostgreSQL, MongoDB or anything programming related.</li>
+    <li>💬 Ask me about anything programming related.</li>
     <li>📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt </li>
     <li>⚡ Fun fact: I'm a huge fan of videogames and cat pictures</li>
   </ul>
 </div>
 </br>
 
-<p align = "center"
-   <h5><b>Some of my skills</b></h5>
-   </br>
-</p>   
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,postgresql,python,java,js,react,c,cpp,cs" />
-    </br>
-    <img src="https://skillicons.dev/icons?i=babel,jest,unity,linux,vscode,html,css,scss,ts,webpack" />
-  </a>
-</p>
-
+<div align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdlroca&layout=compact" alt="Most used languages">
+</div>
 <h2 align = "center">Contact Me! :telephone:</h2>
 <!-- <p align = "center"
    <h5><b>Contact Me!</b></h5>
