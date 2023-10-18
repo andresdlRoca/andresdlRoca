@@ -41,7 +41,7 @@
  
 <p align = "center">
   <a href = "https://steamcommunity.com/id/El_Pkachu/">
-      <img width = 500 height = 200 center src = "https://thumbs.gfycat.com/ExemplaryPlayfulFirebelliedtoad-max-1mb.gif"/>
+      <img width = 500 height = 200 center src = "https://media.tenor.com/3ixj1LzNr-oAAAAC/nier-nierreplicant.gif"/>
   </a>
   <a href = "https://github.com/andresdlRoca">
       <img src="https://github-readme-stats.vercel.app/api?username=andresdlRoca&show_icons=true&theme=gruvbox"         alt="andresdlRoca" />
