@@ -8,8 +8,8 @@
     <ul>
     <li>🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.</li>
     <li>🌱 I’m currently learning about Compilers, Computer Networks and Parallel programming.</li>
-    <li>🏢 I’m currently on a Web Developer Internship.</li>
-    <li>👯 I’m looking to collaborate on open source projects.</li>
+<!--     <li>🏢 I’m currently on a Web Developer Internship.</li>
+    <li>👯 I’m looking to collaborate on open source projects.</li> -->
     <li>💬 Ask me about anything programming related.</li>
     <li>📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt </li>
     <li>⚡ Fun fact: I'm a huge fan of videogames and cat pictures</li>
