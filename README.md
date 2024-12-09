@@ -6,8 +6,8 @@
 </br>
 <div>
     <ul>
-    <li>🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.</li>
-    <li>🌱 I’m currently learning about Cybersecurity, Machine Learning and Networking.</li>
+<!--     <li>🔭 I’m currently getting a CS & IT Engineering Degree at Universidad del Valle de Guatemala.</li>
+    <li>🌱 I’m currently learning about Cybersecurity and Machine Learning.</li> -->
 <!--     <li>🏢 I’m currently on a Web Developer Internship.</li>
     <li>👯 I’m looking to collaborate on open source projects.</li> -->
     <li>💬 Ask me about anything programming related.</li>
