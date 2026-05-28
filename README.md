@@ -17,9 +17,9 @@
 </div>
 </br>
 
-<div align = "center">
+<!-- <div align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresdlroca&layout=compact" alt="Most used languages">
-</div>
+</div> -->
 <h2 align = "center">Contact Me! :telephone:</h2>
 <!-- <p align = "center"
    <h5><b>Contact Me!</b></h5>
@@ -44,9 +44,9 @@
       <img width = 300 height = 300 center src = "https://media.tenor.com/3ixj1LzNr-oAAAAC/nier-nierreplicant.gif"/>
   </a>
 <br>
-  <a href = "https://github.com/andresdlRoca">
+  <!-- <a href = "https://github.com/andresdlRoca">
       <img src="https://github-readme-stats.vercel.app/api?username=andresdlRoca&show_icons=true&theme=gruvbox"         alt="andresdlRoca" />
-  </a>
+  </a> -->
 
 </p>
 
