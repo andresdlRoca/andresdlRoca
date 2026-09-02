@@ -11,7 +11,7 @@
 <!--     <li>🏢 I’m currently on a Web Developer Internship.</li>
     <li>👯 I’m looking to collaborate on open source projects.</li> -->
     <li>💬 Ask me about anything programming related.</li>
-    <li>📫 You can reach me via: andresdelaroca11@gmail.com or dela20332@uvg.edu.gt </li>
+    <li>📫 You can reach me via: andresdelaroca11@gmail.com </li>
     <li>⚡ Fun fact: I'm a huge fan of videogames and cats</li>
   </ul>
 </div>
